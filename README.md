@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Versatile Full Stack Engineer with a background in frontend, backend, and mobile app development. Proficient in a variety of programming languages and tools, including HTML, CSS, JavaScript, TypeScript, React, Angular, PHP, Python, Java, Objective-C, Swift, Node.JS, Laravel, Flask, SQL, NoSQL, AWS, Heroku, Google Cloud, Communication, Problem Solving, Teamwork, Self-Motivation, Time Management, Self-Learning, and more.
+Passionate about developing user-friendly web applications that are both aesthetically pleasing and functionally sound.
+Currently looking for the next step in my Full Stack Engineer career. Contact me to discuss relevant opportunities.
+
 <!--
 **bailang1208/bailang1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
